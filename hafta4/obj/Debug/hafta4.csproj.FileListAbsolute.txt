@@ -1,0 +1,11 @@
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\obj\Debug\hafta4.csproj.AssemblyReference.cache
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\obj\Debug\hafta4.csproj.SuggestedBindingRedirects.cache
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\obj\Debug\hafta4.Form1.resources
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\obj\Debug\hafta4.Properties.Resources.resources
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\obj\Debug\hafta4.csproj.GenerateResource.cache
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\obj\Debug\hafta4.csproj.CoreCompileInputs.cache
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\bin\Debug\hafta4.exe.config
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\bin\Debug\hafta4.exe
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\bin\Debug\hafta4.pdb
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\obj\Debug\hafta4.exe
+C:\Users\basakaleyna\Desktop\staj\hafta4\hafta4\obj\Debug\hafta4.pdb
